@@ -1,0 +1,46 @@
+.NANA1{width: 450px; margin: auto;  height: 340px; border: solid 1px #000; border: solid 10px #000;background:#000;}
+
+#space {
+  border-collapse: separate;
+  border-spacing: 60px 0px;
+ margin-left: -55px;
+}
+
+.TNAA1 {  background-image: url(https://i.ibb.co/r68Hrtq/vs1.png); position: absolute; z-index: 1; width: 450px; height: 340px; margin-left: -8px;}
+
+.TA11 { 
+left: 8px;
+ top: -80px;
+  font-size:25px; 
+  font-family:LORD OF THE RING; 
+  color: #000;
+  letter-spacing: 2px; 
+  line-height:15px; 
+  text-align:center;
+  padding:10px;
+     width: 150px;
+ height: 35px; 
+ text-transform: uppercase; 
+background: rgb(255,255,255,0.7);
+position: relative;}
+
+.TA11 span{ 
+ font-size:10px; 
+  font-family:montserrat; 
+  color: #000;
+  line-height:36px;
+ text-align:center;
+  padding: 10px;
+    letter-spacing: 2px; 
+}
+
+.TBN11{margin: auto;padding: 10px;width: 430px; height:100%; background: #fff; border: solid 10px #000;}
+
+.TBN12{text-align: center; font-size: 12px; font-family: Montserrat; color: #000;width:420px; text-transform: uppercase; letter-spacing: 1px;padding:2px;margin: auto; border-bottom: 3px solid #000; }
+
+.TBN22 { width: 410px; height: 245px; padding: 10px; background: #fff;line-height: 15px; font-size: 13px; font-family: Montserrat;text-align: justify; overflow: auto;margin: auto;}
+
+.TBN13 { width: 410px; height: 100%; padding: 10px; background: #fff;line-height: 15px; font-size: 13px; font-family: Montserrat;text-align: justify; overflow: auto;margin: auto;}
+
+.cyuki{
+  text-align:center; font-size: 7px; color: #000;  font-family: Montserrat; margin-top:4px;}
